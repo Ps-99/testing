@@ -2,9 +2,9 @@
   "name": "js-project",
   "version": "1.0.0",
   "description": "A JavaScript project",
-  "main": "my api.js",
+  "main": "my-api.js",
   "scripts": {
-    "start": "node \"my api.js\""
+    "start": "node my-api.js"
   },
   "dependencies": {
     "express": "^4.17.1",
