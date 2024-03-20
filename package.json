@@ -1,17 +1,13 @@
 {
-  "name": "nodejs",
+  "name": "js-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A JavaScript project",
   "main": "my-api.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node my-api.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.0.6",
-    "axios": "^1.6.8",
-    "express": "^4.18.3"
+    "express": "^4.17.1",
+    "axios": "^0.24.0"
   }
 }
